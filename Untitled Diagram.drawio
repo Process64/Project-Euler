@@ -1,1 +1,54 @@
-<mxfile host="www.draw.io" modified="2020-02-07T18:28:05.163Z" agent="Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.0.1043 Yowser/2.5 Safari/537.36" etag="yxcj1jKL5PDc44-LuBWG" version="12.6.6" type="github" pages="2"><diagram id="BVMoY4dX869Am769o8fS" name="Page-1">7ZdNc5swEIZ/DUdnQNiYHGObtNOpp53xoU1vMpKBVGapLBy7v74SEh8yhIk7U1+aiwLPrrSr1fLKcfzl/vSB4yJdA6HMQS45Of7KQSgMAzkqcNbAD2caJDwjGnkt2GS/qYGuoWVG6MFyFABMZIUNY8hzGguLYc7hxXbbAbOjFjihPbCJMevTbxkRqdkWmrf8I82StI7sBffasse1s9nJIcUEXjrIjxx/yQGEftqflpSp2tV10fMeX7E2iXGai7dM2P6INt53vF49rZ+j+acvq6/iaWKSPWJWmg2bZMW5rgAlsiDmFbhIIYEcs6ilCw5lTqgK48q31uczQCGhJ+EzFeJsTheXAiRKxZ4Zq46pAr26N4MOUPKYjmxoanoE84SKEb95cwKycynsqeBnOY9ThkV2tPPApoeSxq8ts3wwlb6i6tOBqgdMprsQeCtLitwtcEJ5ZQt+lapFFl77KB1emmZs7K48/5nlFMtcCkxIlieW69Tyas+6hmbxB2msV3W1b2p6fcCkU57EwBguDlT7NG+dgEFi/uodb0FqwyXkPZKqg2BZkluZxrJBKB9YXbbiva/GRfW8cKsRVeOqJp4TPtYB5EGqGHZUBfup9Am5KrmNFKoMclXCO69eY8uHzGjc7HcTJbfOHo1nj8azR3+TvYJDDaO4/nRqfqFigp6ELToHweEnXQID9Z3lkCsp22WMXSA4Ur5jlXIra7O4xHLRccHqC4yZ4M9CPcVci15gbon2u5Z3iWFp94KZuv9IlObvonQDUXrwKtlB1eh2pEmLUljxwHCkTV7HpBUsMmp2e+16l6v/Uq5835KriXuH+noVDOmV37heoVjytf1hXNk6/1340R8=</diagram><diagram id="EQS8e7ljplrb_CQviWXu" name="Page-2">ldFPD4IgFADwT8PRzaCZHRuVdejUwXVkQkJDn0Oa2qdPh6asS13Y48fjz3sgQos2MaySF+BCIxzyFpE9wjiO4n4coHOwjlcOcqO4owVc1UuMGI76VFzUXqIF0FZVPmZQliKznjFjoPHT7qD9WyuWiy+4Zkx/a6q4lWNZeDP7SahcTjevoq1bKdiUPFZSS8ahWRA5IEINgHVR0VKhh95NfQketdql+JzEeyo7dmtqHQbusOM/Wz4lGFHaX4/ug/lp/cT7X3J4Aw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-07T20:40:30.274Z" agent="Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.0.1043 Yowser/2.5 Safari/537.36" etag="4DkyNxggvxcfN87dNls7" version="12.6.6" type="github" pages="2">
+  <diagram id="BVMoY4dX869Am769o8fS" name="Page-1">
+    <mxGraphModel dx="886" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="bZES1XaMDYMjE7JODPtY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.877;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bZES1XaMDYMjE7JODPtY-4" target="bZES1XaMDYMjE7JODPtY-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="230" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="768" y="270"/>
+              <mxPoint x="768" y="270"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQHDQ8TSMMg8cVSKProe-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bZES1XaMDYMjE7JODPtY-4" target="pQHDQ8TSMMg8cVSKProe-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="470" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bZES1XaMDYMjE7JODPtY-4" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Главная&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Биты&lt;br&gt;Поиск и задачи&lt;br&gt;Медиа&amp;nbsp;&lt;br&gt;Социальная сеть&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Дата&lt;br&gt;Логин&lt;br&gt;QR код&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
+          <mxGeometry x="710" y="290" width="110" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="pQHDQ8TSMMg8cVSKProe-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZES1XaMDYMjE7JODPtY-7" target="pQHDQ8TSMMg8cVSKProe-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="pQHDQ8TSMMg8cVSKProe-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZES1XaMDYMjE7JODPtY-7" target="pQHDQ8TSMMg8cVSKProe-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="bZES1XaMDYMjE7JODPtY-7" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot; align=&quot;left&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Страница битов&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;ol&gt;&lt;li&gt;БЛОК&lt;/li&gt;&lt;li&gt;Общ + личн кол-во ключей&lt;/li&gt;&lt;li&gt;График цен&lt;/li&gt;&lt;li&gt;NFC &amp;gt;&lt;/li&gt;&lt;li&gt;Перевод по логину,почте или QR&lt;/li&gt;&lt;li&gt;RESERVE&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
+          <mxGeometry x="540" y="-0.2" width="260" height="210.2" as="geometry"/>
+        </mxCell>
+        <mxCell id="pQHDQ8TSMMg8cVSKProe-10" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot; align=&quot;left&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Страница битов&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-0.2" width="240" height="210.2" as="geometry"/>
+        </mxCell>
+        <mxCell id="pQHDQ8TSMMg8cVSKProe-3" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Блок(1) +Счета(2)+ График(3)&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-0.2" width="280" height="210.2" as="geometry"/>
+        </mxCell>
+        <mxCell id="pQHDQ8TSMMg8cVSKProe-8" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Социальная сеть&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Section 1.1&lt;br&gt;Section 1.2&lt;br&gt;Section 1.3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Section 2.1&lt;br&gt;Section 2.2&lt;br&gt;Section 2.3&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="665" y="650" width="200" height="140" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EQS8e7ljplrb_CQviWXu" name="Page-2">
+    <mxGraphModel dx="868" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="-jsiAW2IG8DChyaYwsl0-0"/>
+        <mxCell id="-jsiAW2IG8DChyaYwsl0-1" parent="-jsiAW2IG8DChyaYwsl0-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
