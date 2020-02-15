@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-12T22:21:00.293Z" agent="Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 YaBrowser/20.2.1.248 Yowser/2.5 Safari/537.36" etag="OTuWvS_Y23sa1rFhqWt-" version="12.6.8" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-02-15T17:51:55.600Z" agent="Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 YaBrowser/20.2.1.248 Yowser/2.5 Safari/537.36" etag="aq87SRuzdT0wWDOlV6vJ" version="12.7.0" type="github" pages="2">
   <diagram id="BVMoY4dX869Am769o8fS" name="Page-1">
-    <mxGraphModel dx="653" dy="1431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -58,7 +58,7 @@
         <mxCell id="bZES1XaMDYMjE7JODPtY-7" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot; align=&quot;left&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Страница битов&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;ol&gt;&lt;li&gt;БЛОК&lt;/li&gt;&lt;li&gt;Общ + личн кол-во ключей&lt;/li&gt;&lt;li&gt;График цен&lt;/li&gt;&lt;li&gt;Рублевый счет&lt;/li&gt;&lt;li&gt;NFC &amp;gt;&lt;/li&gt;&lt;li&gt;Перевод по логину,почте или QR&lt;/li&gt;&lt;li&gt;RESERVE&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Система ключей загорающихся в блоке&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=#E6E6E6;overflow=fill;" parent="1" vertex="1">
           <mxGeometry x="540" y="-0.2" width="260" height="210.2" as="geometry"/>
         </mxCell>
-        <mxCell id="pQHDQ8TSMMg8cVSKProe-10" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot; align=&quot;left&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;NFC(5)+Переводы и QR(6+7)+&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=#E6E6E6;overflow=fill;" parent="1" vertex="1">
+        <mxCell id="pQHDQ8TSMMg8cVSKProe-10" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot; align=&quot;left&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;NFC(5)+Переводы и QR(6)&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=#E6E6E6;overflow=fill;" parent="1" vertex="1">
           <mxGeometry x="900" y="-0.2" width="260" height="210.2" as="geometry"/>
         </mxCell>
         <mxCell id="pQHDQ8TSMMg8cVSKProe-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pQHDQ8TSMMg8cVSKProe-3" target="pQHDQ8TSMMg8cVSKProe-14" edge="1">
@@ -105,8 +105,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pQHDQ8TSMMg8cVSKProe-26" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Поиск ZAlupoi&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Решебник N.I.G.G.E.R.&lt;/b&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=#99FF99;overflow=fill;" parent="1" vertex="1">
+        <mxCell id="pQHDQ8TSMMg8cVSKProe-26" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Поиск ZAlupoi&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Решебник N.I.G.G.E.R.&lt;/b&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;Компилятор&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=#99FF99;overflow=fill;" parent="1" vertex="1">
           <mxGeometry x="1120" y="500" width="210" height="260" as="geometry"/>
+        </mxCell>
+        <mxCell id="HKVNDi_qUPWSRxF4RBqc-1" value="" style="endArrow=classic;html=1;entryX=-0.014;entryY=0.851;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="HKVNDi_qUPWSRxF4RBqc-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="178" as="sourcePoint"/>
+            <mxPoint x="60" y="780" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1040" y="260"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKVNDi_qUPWSRxF4RBqc-2" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Reserve(7)&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Section 1.1&lt;br&gt;Section 1.2&lt;br&gt;Section 1.3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Section 2.1&lt;br&gt;Section 2.2&lt;br&gt;Section 2.3&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=#E6E6E6;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="-1.5" width="160" height="211.5" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
