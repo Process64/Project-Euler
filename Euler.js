@@ -39,3 +39,30 @@ while(i < target) {
 }
 console.log(target + originalTarget); 
 //4//////////////////////////////////////////////////////////////////////////
+function a() {
+    let x,y,z, i = 999, testPalindrome = 0, palindromeDiv = 0;
+    for (x = 9; x > 0; x--) {
+        for (y = 9; y >= 0; y--) {
+            for (z = 9; z >= 0; z--) {
+              latestPalindrome = 100001 * x + 10010 * y + 1100 * z;
+              for (i = 999; i >= 100; i--) {
+                if (latestPalindrome % i === 0) {
+                  palindromeDivider = latestPalindrome / i
+                  if(palindromeDivider > 999) break;
+                  if (palindromeDivider >= 100) {
+                    return [
+                      "palindrome is ", palindromeDivider, " x ", i,
+                      " = ", latestPalindrome ].join("");
+                  }
+                }
+              }
+            }
+        }
+    }
+};
+console.log(a());
+
+
+
+
+
