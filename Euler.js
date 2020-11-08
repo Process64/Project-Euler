@@ -61,8 +61,23 @@ function a() {
     }
 };
 console.log(a());
-
-
+//5//////////////////////////////////////////////
+let i = 1;
+function myFunction (num) {
+  var result = i / num
+  return parseInt(result) === result
+}
+while (true) {
+  let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+  if (arr.every(myFunction)) {
+    console.log(i)
+    break;
+  } else {
+    i++
+    continue;
+  }
+}
+//6/////////////////////////////////////////////////////////////////////////////
 
 
 
