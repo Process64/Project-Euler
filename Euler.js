@@ -78,6 +78,16 @@ while (true) {
   }
 }
 //6/////////////////////////////////////////////////////////////////////////////
-
-
+let square = 0;
+let square_sum = 0;
+let sum = 0;
+for(let i = 1; i <= 100; i++){
+	let square = Math.pow(i, 2);
+	square += square;
+	sum += i;
+}
+square_sum = Math.pow(sum, 2);
+let diff = square_sum - square;
+console.log(diff);
+//7/////////////////////////////////////////////////////////////////////////////
 
