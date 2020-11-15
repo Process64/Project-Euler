@@ -90,4 +90,34 @@ square_sum = Math.pow(sum, 2);
 let diff = square_sum - square;
 console.log(diff);
 //7/////////////////////////////////////////////////////////////////////////////
+function prime(index) {
+  let i;
+  let primes = [2, 3];
+  let n = 5;
 
+  function isPrime(n) {
+      let i = 1;
+      let p = primes[i];
+      limit = Math.ceil(Math.sqrt(n));
+      while (p <= limit) {
+          if (n % p === 0) {
+              return false;
+          }
+          i += 1;
+          p = primes[i];
+      }
+      return true;
+  }
+
+  for (i = 2; i <= index; i += 1) {
+      while (!isPrime(n)) {
+          n += 2;
+      }
+      primes.push(n);
+      n += 2;
+  }
+  return primes[index - 1];
+}
+
+console.log(prime(10001));
+//8//////////////////////////////////////////////////////////////////////
