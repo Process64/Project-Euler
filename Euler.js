@@ -166,3 +166,23 @@ function lAN(grid, conseLength = 4, separator = "\n") {
 
 console.log(lAN(grid, 13));
 //9/////////////////////////////////////////////////////////////////////////
+let arrPy = [];
+for (var i = 1; i <= 1000; i++) {
+  arrPy.push(i);
+}
+let allTrip = [];
+for (var i = 0; i < arrPy.length; i++) {
+  for (var k = 0; k < arrPy.length; k++) {
+    for (var p = 0; p < arrPy.length; p++) {
+      let aSq = Math.pow(arrPy[i],2);
+      let bSq = Math.pow(arrPy[k],2);
+      let cSq = Math.pow(arrPy[p],2);
+      if(aSq + bSq == cSq && arrPy[i] + arrPy[k] + arrPy[p] == 1000) {
+        allTrip.push([arrPy[i],arrPy[k],arrPy[p]]);
+      }
+    }
+  }
+}
+let product1 = allTrip[0][0] * allTrip[0][1] * allTrip[0][2];
+console.log(product1);
+//10/////////////////////////////////////////////////////////////////////
