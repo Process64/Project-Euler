@@ -229,8 +229,8 @@ console.log(answer(2000000)); // 142913828922
 function problem11() {
     var answer = 0;
     var product = 0;
-    var rows = 19; // 0 to 19 = 20
-    var columns = 19; // 0 to 19 = 20
+    var rows = 19; 
+    var columns = 19; 
     
     var grid = new Array(
         [08,02,22,97,38,15,00,40,00,75,04,05,07,78,52,12,50,77,91,08],
@@ -260,26 +260,22 @@ function problem11() {
         for ( j = 0; j < columns; j++ ) {
 
             if ( j < columns - 3) {
-                // Horizontal
                 product = grid[i][j] * grid[i][j+1] * grid[i][j+2] * grid[i][j+3];
                 if ( product > answer ) {
                     answer = product;
                 }
             }
             if ( i < rows - 3 ) {
-                // Vertical
                 product = grid[i][j] * grid[i+1][j] * grid[i+2][j] * grid[i+3][j];
                 if ( product > answer ) {
                     answer = product;
                 }
-                // Diagonally to the right
                 if ( j < columns - 3) {
                     product = grid[i][j] * grid[i+1][j+1] * grid[i+2][j+2] * grid[i+3][j+3];
                     if ( product > answer ) {
                         answer = product;
                     }
                 }
-                // Diagonally to the left
                 if ( j > 3) {
                     product = grid[i][j] * grid[i+1][j-1] * grid[i+2][j-2] * grid[i+3][j-3];
                     if ( product > answer ) {
@@ -293,4 +289,4 @@ function problem11() {
 }
 
 console.log(problem11());
-//12//////////////////////////////////////////////////////////////
+//12///////////////////////////////////////////////////////////////////
