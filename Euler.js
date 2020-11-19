@@ -186,3 +186,43 @@ for (var i = 0; i < arrPy.length; i++) {
 let product1 = allTrip[0][0] * allTrip[0][1] * allTrip[0][2];
 console.log(product1);
 //10/////////////////////////////////////////////////////////////////////
+
+function primeNumberGen(param){
+  if(param === 1){
+    return false;
+  }
+  if(param === 2){
+    return true;
+  }
+  if(param % 2 === 0){
+    return false;
+  }
+  let ceil = Math.ceil(Math.sqrt(param));
+  for(var i = 3; i <= ceil; i += 2){
+    if(param % i === 0){
+      return false;
+    }
+  }
+  return true;
+}
+
+function sumPrimes(param){
+  let array = [];
+  for(var j = 2; j <= param; j++){
+    if(primeNumberGen(j)){
+      array.push(j);
+    }
+  }
+  let sumArray = array.reduce(function add(a,b){
+    return a + b;
+  }, 0);
+  let answer = function(){
+    return sumArray;
+  }
+  return answer();
+}
+let answer = function(param){
+  return sumPrimes(param);
+} 
+console.log(answer(2000000)); // 142913828922
+//11////////////////////////////////////////////////////////////
