@@ -1,15 +1,13 @@
 //1//////////////////////////////////////////////////////////////////////////
 let num = 1000
 let numbers = []
-
-for(var i = 0;  i < num; i++){
+for(let i = 0;  i < num; i++){
   if( i % 3 === 0|| i % 5 === 0){
      numbers.push(i)
   }
-};
-
-let sum = numbers.reduce((a, b) => a + b, 0);
-console.log(sum);
+}
+let sum = numbers.reduce((a, b) => a + b, 0)
+console.log(sum)
 //2///////////////////////////////////////////////////////////////////////////
 function f() {
     let f1 = 1;
